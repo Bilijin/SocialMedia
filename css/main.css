@@ -1,0 +1,82 @@
+body{
+    margin: 0px;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+main{
+    position: absolute;
+    background-color: rgb(29, 161, 242);
+    width: 39%;
+    padding-left: 5%;
+    height: 93%;
+    text-align: left;
+    color: #ffffff;
+    padding-right: 5%;
+    background-image: url(../images/Twitter_.svg);
+}
+aside{
+    position: relative;
+    float: right;
+    width: 39%;
+    padding-right: 5%;
+    height: 93%;
+    text-align: left;
+}
+footer{
+    position: absolute;
+    margin-top: 45%;
+}
+a{
+    color: #b4b4b4;
+    text-decoration: none; 
+}
+li{
+    display: inline;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.top{
+    padding-top: 20%;
+}
+.bold{
+    font-weight: bold;
+}
+.space{
+    padding-top: 20px;
+}
+.sides{
+    padding-right: 80px;
+    padding-left: 40px;
+}
+#login{
+    width: 60px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #ffffff;
+    color: rgb(29, 161, 242);
+    border-color: rgb(29, 161, 242);
+    border-width: 1px;
+    float: right;
+}
+#signup{
+    width: 280px;
+    height: 30px;
+    border-radius: 70px;
+    color: #ffffff;
+    background-color: rgb(29, 161, 242);
+    border: none;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+#login2{
+    width: 280px;
+    height: 30px;
+    border-radius: 70px;
+    color: rgb(29, 161, 242);
+    background-color: #ffffff;
+    border-color: rgb(29, 161, 242);
+    border-width: 1px;
+    font-weight: bold;
+}
